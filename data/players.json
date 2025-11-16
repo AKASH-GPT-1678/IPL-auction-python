@@ -1,0 +1,11 @@
+[
+    {
+        "name": "nadeem",
+        "role": "rahim",
+        "bowling_stats": "100",
+        "batting_stats": "199",
+        "fielding_stats": "199",
+        "base_price": "100000",
+        "sale_price": "100000"
+    }
+]

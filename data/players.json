@@ -1,11 +1,11 @@
 [
     {
-        "name": "nadeem",
-        "role": "rahim",
-        "bowling_stats": "100",
-        "batting_stats": "199",
-        "fielding_stats": "199",
-        "base_price": "100000",
-        "sale_price": "100000"
+        "name": "Ms Dhoni",
+        "role": "Batsman",
+        "bowling_stats": "200",
+        "batting_stats": "10000",
+        "fielding_stats": "1000",
+        "base_price": "20",
+        "sale_price": "25"
     }
 ]

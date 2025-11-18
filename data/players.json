@@ -1,8 +1,8 @@
 [
     {
         "name": "Ms Dhoni",
-        "role": "Batsman",
-        "bowling_stats": "200",
+        "role": "Bowler",
+        "bowling_stats": "1000",
         "batting_stats": "10000",
         "fielding_stats": "1000",
         "base_price": "20",

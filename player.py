@@ -11,9 +11,10 @@ class Player:
     
     def to_dict(self):
         return {
+             "id": self.id,
             "name": self.name,
             "role": self.role,
-            "id": self.id,
+           
             "bowling_stats": self.bowling_stats,
             "batting_stats": self.batting_stats,
             "fielding_stats": self.fielding_stats,

@@ -1,3 +1,42 @@
 [
-  
+    {
+        "name": "Rohit Sharma",
+        "role": "Batsman",
+        "id": 1,
+        "bowling_stats": "30",
+        "batting_stats": "10860",
+        "fielding_stats": "100",
+        "base_price": "1000000",
+        "sale_price": "2000000"
+    },
+    {
+        "name": "Ms Dhoni",
+        "role": "Batsman",
+        "id": 1,
+        "bowling_stats": "5",
+        "batting_stats": "8000",
+        "fielding_stats": "1000",
+        "base_price": "5000000",
+        "sale_price": "10000000"
+    },
+    {
+        "name": "karan",
+        "role": "shsh",
+        "id": "Arjun",
+        "bowling_stats": "sss",
+        "batting_stats": "ss",
+        "fielding_stats": "ss",
+        "base_price": "sss",
+        "sale_price": "ss"
+    },
+    {
+        "name": "Arjun tendulkar",
+        "role": "Mujra",
+        "id": "cbxquap",
+        "bowling_stats": "100",
+        "batting_stats": "100",
+        "fielding_stats": "100",
+        "base_price": "1000",
+        "sale_price": "2000"
+    }
 ]
